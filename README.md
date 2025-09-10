@@ -1,4 +1,3 @@
-# ECommerce-DataScience-MMM-
 A MMM model for the product categories containing many factors an using Kyock and regression models to predict the market analysis.
 
 What is MMM?
